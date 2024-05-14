@@ -16,6 +16,7 @@ This repository contains the source code for a tour agency website designed and 
 
 - HTML5
 - CSS3
+- SCSS
 - JavaScript
 - React
 
